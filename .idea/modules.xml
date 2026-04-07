@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/Comparacion cadenas/Comparacion cadenas.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/Comparacion cadenas/Comparacion cadenas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/Constantes/Constantes.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/Constantes/Constantes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/DetallePersona/DetallePersona.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/DetallePersona/DetallePersona.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/EjemploClase/EjemploClase.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/EjemploClase/EjemploClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/EjercicioConstante1/EjercicioConstante1.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/EjercicioConstante1/EjercicioConstante1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/Introduccion a Java/Introduccion a Java.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/Introduccion a Java/Introduccion a Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/REPASO/REPASO.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/REPASO/REPASO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/ReservaHoteles/ReservaHoteles.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/ReservaHoteles/ReservaHoteles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semana 1/Semana 1.iml" filepath="$PROJECT_DIR$/Semana 1/Semana 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/cadenas/cadenas.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/cadenas/cadenas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/concatenacion/concatenacion.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/concatenacion/concatenacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/detalleproducto/detalleproducto.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/detalleproducto/detalleproducto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/indiceCadena/indiceCadena.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/indiceCadena/indiceCadena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/inmutabilidadcadenas/inmutabilidadcadenas.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/inmutabilidadcadenas/inmutabilidadcadenas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/reglas/reglas.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/reglas/reglas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/repasos/repasos.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/repasos/repasos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/tiposdatos/tiposdatos.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/tiposdatos/tiposdatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/tipovar/tipovar.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/tipovar/tipovar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIMEROS Meses Java/varjava/varjava.iml" filepath="$PROJECT_DIR$/PRIMEROS Meses Java/varjava/varjava.iml" />
+    </modules>
+  </component>
+</project>

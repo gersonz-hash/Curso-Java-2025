@@ -25,7 +25,7 @@ public class leerTiposDatos {
         //conversion de datos
         System.out.println("Proporciona un valor entero: ");
         var enteroString=consola.nextLine();
-        var entero=Integer.parseInt(enteroString);
+        var entero=Integer.pa  rseInt(enteroString);
         System.out.println("entero = " + entero);
 
         //TIPO FLOTANTE

@@ -13,6 +13,28 @@ public class OperadoresLogicos {
         var resultado2= a2 || b2;//caracter pipe
         System.out.println("resultado2 = " + resultado2);
 
+        //Operador logico not !
+        System.out.println("***Operaodr Not***");
+        boolean d=false;
+
+        //invierte el valor logico
+        var resultado3= !d;
+        System.out.println("resultado3 = " + resultado3);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         
 
